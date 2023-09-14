@@ -19,3 +19,5 @@ if(pilih == "luas" or pilih == "Luas"):
     luas(jari2)
 elif(pilih == "keliling" or pilih == "Keliling"):
     keliling(jari2)
+else:
+    print("masukkan pilihan dengan benar")
